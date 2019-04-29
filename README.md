@@ -1,3 +1,6 @@
+## Personal Library
+- A project part of the FCC curriculum
+
 **FreeCodeCamp**- Information Security and Quality Assurance
 ------
 
